@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 
-  <h1>Hi, I'm &lt;Your Name&gt;</h1>
+  <h1>Hi, I'm Kartik Sinha</h1>
 
   <h3>
     🚀 Full-Stack AI Engineer | Computer Vision • IoT • Geospatial Analytics
@@ -30,7 +30,7 @@ Final-year **B.Tech CSE (IoT–IS)** student (**CGPA: 8.26**) and **Full-Stack A
 
 I specialize in building **end-to-end intelligent applications** — from ML model development to **Spring Boot microservices**, real-time dashboards, and scalable backend systems.
 
-- 🏅 **Oracle Certified Java Associate**
+- 🏅 **Oracle Certified Java Associate - 92.9%** 
 - 🧠 **Patent Co-Inventor** – Real-Time IoT Tracking System
 - 🛰️ Former **Research Intern @ ISRO–IIRS**
 - 👥 **Technical Director**, IEEE GRSS Student Chapter
