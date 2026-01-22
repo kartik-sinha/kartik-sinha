@@ -70,12 +70,10 @@ I specialize in building **end-to-end intelligent applications** — from ML mod
 
 | Domain | Skills |
 |------|-------|
-| **Languages** | Java, Python, JavaScript, SQL, TypeScript, HTML, CSS |
+| **Languages** | Java, Python, JavaScript, SQL, HTML, CSS |
 | **Backend** | Spring Boot, Spring MVC, Hibernate, REST APIs, Microservices |
 | **AI & ML** | TensorFlow, PyTorch, Scikit-Learn, Pandas, OpenCV, NLP |
-| **Computer Vision** | U-Net, ResUNet, Attention Models, Image Segmentation |
-| **Databases** | MySQL |
-| **DevOps & Tools** | Docker, Kubernetes, Git, GitHub, CI/CD, Maven, Postman, JIRA |
+| **DevOps & Tools** | Docker, Kubernetes, Git, GitHub, CI/CD, Maven, Postman, JIRA, N8N|
 | **Cloud** | AWS (EC2, S3, IAM, Lambda – basics) |
 
 ---
